@@ -13,8 +13,9 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 
-## where am i  :question: :mag_right: :eyes: 
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" target="_blank"/></a>](https://www.linkedin.com/in/bluemoons/)
+## where am i  :question: :mag_right: :eyes:
+<a href="https://www.linkedin.com/in/bluemoons/" target="_blank" >
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" target="_blank"/></a>
 <a href="mailto:devbluemoons@gmail.com" >
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" target="_blank"/>
 </a>
