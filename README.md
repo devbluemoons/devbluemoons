@@ -19,3 +19,6 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" target="_blank"/></a>](https://www.linkedin.com/in/bluemoons/)
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" target="_blank"/>
 </a>
+
+## my Posting Series
+- [x] [VPC-Configuration (AWS > VPC 구성)](https://velog.io/@moonblue/series/vpc-%EA%B5%AC%EC%84%B1)
