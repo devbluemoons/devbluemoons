@@ -20,5 +20,5 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" target="_blank"/>
 </a>
 
-## my Posting Series
+## 📝 posting series (blog)
 - [x] [VPC-Configuration (AWS > VPC 구성)](https://velog.io/@moonblue/series/vpc-%EA%B5%AC%EC%84%B1)
